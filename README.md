@@ -1,5 +1,6 @@
 # ROM-and-ARAB-Converter
 The program converts numbers from ROM to ARAB and the other way around.
+This program was coded in C#. It also has an unit test included.
 In this program you need to enter a .txt file that will have the input you will like to enter. 
 The input file will have several lines and there is a format that must be separated by '|'
 
