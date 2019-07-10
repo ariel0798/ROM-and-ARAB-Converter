@@ -10,8 +10,11 @@ Value|Format of the value|Format requested
 An example of an input should be:
 
 10|ARAB|ROM
+
 8|ARAB|ROM
+
 CMXCIX|ROM|ARAB
+
 MMCCCXCVII|ROM|ARAB
 
 
@@ -22,9 +25,13 @@ Value|Format of the value|Format requested| Value converted
 
 The output of the previous example is:
 
+
 10|ARAB|ROM|X
+
 8|ARAB|ROM|VIII
+
 CMXCIX|ROM|ARAB|999
+
 MMCCCXCVII|ROM|ARAB|2397
 
 
