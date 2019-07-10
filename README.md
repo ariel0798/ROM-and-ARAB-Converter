@@ -4,8 +4,10 @@ This program was coded in C#. It also has an unit test included.
 In this program you need to enter a .txt file that will have the input you will like to enter. 
 The input file will have several lines and there is a format that must be separated by '|'
 
+
 The input format format per line will be:
 Value|Format of the value|Format requested
+
 
 An example of an input should be:
 
@@ -18,10 +20,13 @@ CMXCIX|ROM|ARAB
 MMCCCXCVII|ROM|ARAB
 
 
+
 After that, you will get another file .txt called output.txt this file will have all the lines with their output.
+
 
 The output format per line will be:
 Value|Format of the value|Format requested| Value converted
+
 
 The output of the previous example is:
 
@@ -35,9 +40,12 @@ CMXCIX|ROM|ARAB|999
 MMCCCXCVII|ROM|ARAB|2397
 
 
+
 The program is not case sensitive, so if it is typed "rom" the program will read it perfectly.
 
+
 When the program starts, it is going to ask you for the URL of the input file(.txt). And after that, it is going to ask you for the URL where you want the output.txt to be located.
+
 
 List of message error
 
